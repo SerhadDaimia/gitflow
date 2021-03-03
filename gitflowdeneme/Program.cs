@@ -10,6 +10,8 @@ namespace gitflowdeneme
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("sa caklit");
+            Console.WriteLine("bas");
         }
     }
 }
