@@ -11,6 +11,7 @@ namespace gitflowdeneme
         static void Main(string[] args)
         {
             Console.WriteLine("sa caklıt");
+            Console.WriteLine("as kardeşim");
             Console.WriteLine("bas2");
             Console.WriteLine("yanıyor");
         }
