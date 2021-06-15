@@ -1,0 +1,25 @@
+- sa
+- sa
+- peki
+- as
+- Update Program.cs
+- Update Jenkinsfile
+- Update Jenkinsfile
+- Update Jenkinsfile
+- Rename JenkinsFile to Jenkinsfile
+- Create JenkinsFile
+- Merge tag 'sicak' into develop
+- Merge branch 'hotfix/sicak'
+- yandı
+- Merge tag '0.2.0' into develop
+- Merge branch 'release/0.2.0'
+- 2
+- Merge tag '0.1.0' into develop
+- Merge branch 'release/0.1.0'
+- sasaassa
+- merge
+- as feat
+- sekerli seyler
+- sa yazıldı
+- Add project files.
+- Add .gitignore and .gitattributes.
